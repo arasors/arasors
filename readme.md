@@ -1,7 +1,5 @@
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=arasors&show_icons=true&theme=gradient) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arasors&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
