@@ -1,8 +1,7 @@
 
 📌 _Here are a few things that describe me:_
 
-- 💼 &nbsp;I'm currently working full-time at [Jurnal Co.](https://jurnalsharing.com/) as a Sr.Front-end Developer
-- 🔖 &nbsp;Currently working on a DeepBlueWork Project (no timeline though 😜)
+- 💼 &nbsp;I'm currently working half-time at [Shopiwise Co.](https://shopiwise.net/) as a Sr.Front-end Developer
 - 🔭 &nbsp;Personal goal ─ spend more time working on OSS
 - 💻 &nbsp;I spend most of my time writing JavaScript on both the front-end and back-end
 - 🌱 &nbsp;I’m currently learning TypeScript
