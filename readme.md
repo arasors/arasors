@@ -1,15 +1,15 @@
 
 📌 _Here are a few things that describe me:_
 
-- 💼 &nbsp;I'm currently working half-time at [Shopiwise Co.](https://shopiwise.net/) as a Sr.Front-end Developer
+- 💼 &nbsp;I'm currently working half-time at [Sentroy Co.](https://sentroy.com/) as a Sr.Front-end Developer
 - 🔭 &nbsp;Personal goal ─ spend more time working on OSS
-- 💻 &nbsp;I spend most of my time writing JavaScript on both the front-end and back-end
+- 💻 &nbsp;I spend most of my time writing TavaScript on both the front-end and back-end
 - 🌱 &nbsp;I’m currently learning TypeScript
 - 💬 &nbsp;Ask me about anything, I'll be happy to help
 
 ### 📦 Languages and Tools: 
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
