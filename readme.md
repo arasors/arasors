@@ -1,10 +1,9 @@
 
 📌 _Here are a few things that describe me:_
 
-- 💼 &nbsp;I'm currently working half-time at [Sentroy Co.](https://sentroy.com/) as a Sr.Front-end Developer
-- 🔭 &nbsp;Personal goal ─ spend more time working on OSS
-- 💻 &nbsp;I spend most of my time writing TavaScript on both the front-end and back-end
-- 🌱 &nbsp;I’m currently learning TypeScript
+- 💼 &nbsp;I'm currently working half-time at [Sentroy Co.](https://sentroy.com/) as a founder
+- 🔭 &nbsp;Personal goal ─ spend more time working on GO
+- 💻 &nbsp;I spend most of my time writing TavaScript 
 - 💬 &nbsp;Ask me about anything, I'll be happy to help
 
 ### 📦 Languages and Tools: 
