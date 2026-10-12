@@ -16,14 +16,15 @@ I'm a **Senior Full Stack Engineer** and the founder of [SENTROY](https://sentro
 
 I work across web, mobile, and desktop, from the first sketch to the interface, backend services, and release. I help founders and teams build SaaS products, finish existing applications, and ship the next useful feature.
 
-### Selected work
+### Personal projects
 
-A few recent examples from a much larger project history:
+Some of the products I've built alongside client work:
 
 | Project | My work |
 | :--- | :--- |
-| [**SENTROY**](https://sentroy.com/) | Founder and full stack engineer. Building connected applications for email, storage, notes, restaurant operations, and team communication. |
-| [**Chaby**](https://chaby.sentroy.com/en) | Team collaboration and customer support in the SENTROY ecosystem, including web and Flutter development. |
+| <a href="https://sentroy.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/sentroy-dark.png" /><img src="./assets/projects/sentroy-light.png" alt="SENTROY" width="132" /></picture></a> | Founder and full stack engineer. Building connected applications for email, storage, notes, restaurant operations, and team communication. |
+| <a href="https://chaby.sentroy.com/en"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/chaby-dark.png" /><img src="./assets/projects/chaby-light.png" alt="Chaby" width="132" /></picture></a> | Team collaboration and customer support in the SENTROY ecosystem, including web and Flutter development. |
+| <a href="https://promptie.online/"><img src="./assets/projects/promptie.png" alt="Promptie" width="48" /><br /><strong>Promptie</strong></a> | AI image generation with ready-made prompt templates and personalized portraits. Built a web creation workspace alongside iOS and Android apps. |
 
 ### Languages & tools
 
