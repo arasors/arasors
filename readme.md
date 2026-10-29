@@ -7,7 +7,7 @@
   &nbsp;·&nbsp;
   <a href="https://www.upwork.com/freelancers/~01ee3382ccf6d07f2e">Work with me</a>
   &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/watch?v=qo3q7vVJ1hg">Watch my 60-second introduction</a>
+  <a href="https://youtu.be/Dqt0N5qSdd0?si=iN0_NMGitnyzJXQU">Watch my 60-second introduction</a>
 </p>
 
 ### About me
